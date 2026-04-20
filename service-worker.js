@@ -1,4 +1,4 @@
-// === AspectRatio SW: cambia SOLO questa riga per forzare un refresh completo ===
+// === cambia SOLO questa riga per forzare un refresh completo ===
 const CACHE = 'moffy-20-04-2026-1';
 // ==============================================================================
 
